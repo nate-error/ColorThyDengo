@@ -1,2 +1,5 @@
 /__pycache__
+builds/
+calibrate.spec
+color.spec
 config.json
