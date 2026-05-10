@@ -24,7 +24,7 @@
 
 ## Requirements
 
-You can either install the executables or run it via python.
+You can either install the [executables](https://github.com/nate-error/ColorThyDengo/releases/tag/Release) or run it via python.
 
 python (any version, prefer > 3.9, was made using 3.13)
 
