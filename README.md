@@ -24,7 +24,9 @@
 
 ## Requirements
 
-python (any version, prefer > 3.9), will add an executable in a bit (won't require python or installing packages via pip)
+You can either install the executables or run it via python.
+
+python (any version, prefer > 3.9, was made using 3.13)
 
 ```
 pip install opencv-python numpy mss keyboard
